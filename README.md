@@ -20,7 +20,7 @@ A full-stack, real-time web application that transforms and polishes text using 
 - **Dark Mode UI:** Sleek, modern, and fully responsive design.
 
 ## 📸 Screenshots
-<img width="1895" height="909" alt="history" src="https://github.com/user-attachments/assets/bf45ff20-57df-4ce7-a2ff-9d80cde058f5" />
+
 <img width="1919" height="900" alt="homeai" src="https://github.com/user-attachments/assets/ec3c98dc-0243-4948-8e5d-46c704975f0e" />
 
-
+<img width="1895" height="909" alt="history" src="https://github.com/user-attachments/assets/bf45ff20-57df-4ce7-a2ff-9d80cde058f5" />

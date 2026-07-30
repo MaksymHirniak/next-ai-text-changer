@@ -22,7 +22,7 @@ A full-stack, real-time web application that transforms and polishes text using 
 ## 📸 Screenshots
 
 *(Replace with your actual image paths/links)*
-![Home Page UI](<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/edbfca3f-df82-4ad0-87df-c4d6f4cbec07" />
-)
-![History Dashboard](<img width="1904" height="897" alt="image" src="https://github.com/user-attachments/assets/1fa617ee-eb09-4a5e-a758-078e123bd916" />
-)
+![Home Page UI](<img width="1919" height="900" alt="homeai" src="https://github.com/user-attachments/assets/0065e9d4-230f-47aa-9356-53922799e591" />)
+
+![History Dashboard](<img width="1895" height="909" alt="history" src="https://github.com/user-attachments/assets/0e373730-aff4-47b8-b151-6a2fca7e5099" />)
+

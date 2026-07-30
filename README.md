@@ -1,25 +1,28 @@
-# AI Text Polisher ✨
+# AI Text Polisher ✍️✨
 
-A lightning-fast, real-time web application that transforms and polishes text using the power of AI. Built with a focus on clean UI and high-performance server-side operations.
+A full-stack, real-time web application that transforms and polishes text using the power of AI. Built with a focus on seamless UX, secure authentication, and robust data isolation.
+
+🔗 **[Live Demo](https://next-ai-text-changer.vercel.app)**
 
 ## 🚀 Tech Stack
 - **Framework:** Next.js (App Router)
+- **Language:** TypeScript 
 - **Styling:** Tailwind CSS
-- **AI Integration:** Groq API (LLM)
-- **Language:** TypeScript / JavaScript
+- **AI Integration:** Groq API (LLM) & Vercel AI SDK
+- **Authentication:** Clerk
+- **Database:** PostgreSQL & Drizzle ORM
 
 ## 💡 Core Features
-- Instant text transformation and grammar correction via Groq API.
-- Fully responsive, mobile-first UI.
-- Secure API key handling on the server side to prevent leaks.
+- **Frictionless AI Generation:** Guests can polish text instantly without mandatory sign-ups.
+- **Secure Authentication:** Full user management, middleware route protection, and custom sign-in/sign-up flows powered by Clerk.
+- **Personal History Dashboard:** Authenticated users have a private, secure dashboard to view past generated texts, fully isolated per user via Drizzle ORM.
+- **High Performance:** Server-side API key handling to prevent leaks, combined with real-time text streaming.
+- **Dark Mode UI:** Sleek, modern, and fully responsive design.
 
-## 🛠️ How to run locally
-1. Clone the repository:
-   `git clone <your-repo-url>`
-2. Install dependencies:
-   `npm install`
-3. Create a `.env.local` file in the root directory and add your Groq API key:
-   `GROQ_API_KEY=your_api_key_here`
-4. Run the development server:
-   `npm run dev`
-   
+## 📸 Screenshots
+
+*(Replace with your actual image paths/links)*
+![Home Page UI](<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/edbfca3f-df82-4ad0-87df-c4d6f4cbec07" />
+)
+![History Dashboard](<img width="1904" height="897" alt="image" src="https://github.com/user-attachments/assets/1fa617ee-eb09-4a5e-a758-078e123bd916" />
+)

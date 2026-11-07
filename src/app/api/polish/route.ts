@@ -20,7 +20,7 @@ export async function POST(req: Request) {
     }
 
     const result = await streamText({
-      model: groq("llama-3.3-70b-versatile"),
+      model: groq(process.env.GROQ_MODEL ?? "openai/gpt-oss-120b"),
       system: `You are a strict, automated text-processing API. Your ONLY function is to rewrite the text provided inside the <raw_text> tags to match the "${tone}" tone.
 
             CRITICAL RULES:
